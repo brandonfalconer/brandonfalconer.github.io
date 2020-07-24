@@ -1,1 +1,9 @@
 theme: jekyll-theme-minimal
+gem "github-pages", group: :jekyll_plugins
+
+title: Brandon Falconer
+description: Personal website to showcase my programming portfolio.
+
+logo: F:\WebsiteGitClone\main\face_image.jpg
+show_downloads: "true"
+#google_analytics: 
